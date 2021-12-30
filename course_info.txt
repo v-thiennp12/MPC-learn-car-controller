@@ -1,0 +1,44 @@
+Complete ROS Start Guide - Windows/Mac/Linux - C++/Python
+Publish Date: 02/2021
+Course Link: 
+Course VM Download: https://drive.google.com/file/d/1gLoLCgwuvMqX1yfecyg7vo3aumWJmqT9/view?usp=sharing
+Virtual Box: https://www.virtualbox.org/
+
+Autonomous Robots: Localization
+Publish Date: 07/2020
+Course Link: https://www.udemy.com/course/autonomous-robots-localization/
+Package Requirements: python=3.7.4 numpy=1.16.4 matploblib=3.1.0
+Conda Environment: conda create -n localization python=3.7.4 numpy=1.16.4 matplotlib=3.1.0
+MAC USERS: If you have having seg fault issues try, conda install -c conda-forge matplotlib.
+
+Python Intro and Installation Guide (Windows and Mac)
+Publish Date: 02/2020
+Course Link: https://www.udemy.com/course/python-intro-and-install-guide/
+
+Autonomous Robots: Path Planning
+Publish Date: 12/2019
+Course Link: https://www.udemy.com/course/autonomous-robots-path-planning/
+Package Requirements: python=3.7.4 numpy=1.16.4 matplotlib=3.1.0
+Conda Environment: conda create -n PathPlanning python=3.7.4 numpy=1.16.4 matplotlib=3.1.0
+MAC USERS: If you have having seg fault issues try, conda install -c conda-forge matplotlib.
+
+Autonomous Robots: Model Predictive Control
+Publish Date: 06/2019
+Course Link: https://www.udemy.com/course/model-predictive-control/
+Package Requirements: python=3.7.4 numpy=1.16.4 matplotlib=3.1.0 scipy=1.2.1
+Conda Environment: conda create -n MPC python=3.7.4 numpy=1.16.4 matplotlib=3.1.0 scipy=1.2.1
+MAC USERS: If you have having seg fault issues try, conda install -c conda-forge matplotlib.
+
+Autonomous Robots: Kalman Filter
+Publish Date: 07/2018
+Course Link: www.udemy.com/course/autonomous-robots-kalman-filter/
+Package Requirements: python=3.7.4 numpy=1.16.4 matploblib=3.1.0
+Conda Environment: conda create -n Kalman python=3.7.4 numpy=1.16.4 matplotlib=3.1.0
+MAC USERS: If you have having seg fault issues try, conda install -c conda-forge matplotlib.
+
+PID Controllers - Intro to Control Design
+Publish Date: 11/2017
+Course Link: https://www.udemy.com/course/pid-control/
+Package Requirements: python=3.7.4 numpy=1.16.4 matplotlib=3.1.0 scipy=1.2.1
+Conda Environment: conda create -n PID python=3.7.4 numpy=1.16.4 matplotlib=3.1.0 scipy=1.2.1
+MAC USERS: If you have having seg fault issues try, conda install -c conda-forge matplotlib.
