@@ -64,10 +64,10 @@ class ModelPredictiveControl:
             #longi accel cost
             accel_cost = abs(state[3] - v_start)**2
 
-            #angular speed cost
+            #yaw rate cost
             steering_cost = abs(u[k*2 + 1] - prev_steering)**2
 
-            #obstacl
+            #obstacle cost
             tol_zero = 1e-8
             if ((self.x_obs - state[0])**2 + (self.y_obs - state[1])**2 < tol_zero):
                 obstacle_cost = 1000
